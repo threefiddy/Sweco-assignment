@@ -1,0 +1,69 @@
+.listSpacing{
+	margin-top: 5px;
+}
+.competences{
+margin-top: -40px;
+
+margin-left: 300px;
+}
+.container{
+	max-width: 700px;
+}
+.btnClass{
+	background-color: grey;
+	border: none;
+	color: white;
+	padding: 5px 10px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 13px;
+	min-width: 75px;
+}
+.createBtn{
+	margin-left: 40px;
+}
+.showAllBtn{
+	display: block;
+}
+ul .mainUl{
+	width: 100px;
+	float:left;
+}
+
+.container ul{
+	border: 1px solid black;
+	padding-bottom: 5px;
+}
+
+.backBtn{
+	margin-left: 38px;
+}
+
+.containerCreate{
+	width: 650px;
+}
+
+.containerCreate input{
+	display: table-caption;
+	margin-bottom: 10px;
+}
+
+select{
+	height: 150px;
+	width: 160px;
+	display: block;
+}
+
+.sortBtn{
+	float:right;
+}
+#sortInput{
+	float:right;
+}
+
+.sortInfo{
+	float: right;
+	border: 1px solid grey;
+	padding: 3px;
+}
